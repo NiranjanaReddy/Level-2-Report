@@ -108,7 +108,16 @@ I designed a **spur gear** based on the provided specifications using **Fusion 3
 ---
 
 ## 6. Designing a Parametric Box  
-I designed a **parametric box** with threads in **Fusion 360**.  , ensuring that the dimensions and features could be easily adjusted through parameter changes. The box was sized at 978 cm and included detailed internal and external threads for secure closure. I created multiple lid designs, including a snap joint lid that uses flexible clips for quick attachment and a slide joint lid that slides smoothly into place along a guided track. After designing the components, I assembled them in Fusion 360, defining proper joint relationships. I then animated the assembly to demonstrate the opening and closing mechanism of both the snap and slide joints, ensuring a precise and functional fit. This project enhanced my understanding of parametric design, joint mechanisms, and animation in Fusion 360.
+I designed a **parametric box** with threads in **Fusion 360**.  , ensuring that the dimensions and features could be easily adjusted through parameter changes. The box was sized at 978 cm and included detailed internal and external threads for secure closure. I created multiple lid designs, including a hinge joint and a slide joint lid that slides smoothly into place along a guided track. After designing the components, I assembled them in Fusion 360, defining proper joint relationships. I then animated the assembly to demonstrate the opening and closing mechanism of both the hinge and slide joints, ensuring a precise and functional fit. This project enhanced my understanding of parametric design, joint mechanisms, and animation in Fusion 360.
+
+##Hinge Joint
+
+![Screenshot](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/Screenshot%20(2).png)
+
+##Slide Joint
+
+![Screenshot](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/Screenshot%20(3).png)
+![Screenshot](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/Screenshot%20(4).png)
 
 
 
