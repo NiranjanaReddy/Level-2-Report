@@ -125,7 +125,6 @@ I designed a **parametric box** with threads in **Fusion 360**.  , ensuring that
 # ELECTRONIC DESIGN:  
 
 #### **Task 1:  Engineer’s Swiss Army Knife** 
-Got you! Here's a **simpler**, **clearer**, and **easy-to-understand** version of the report:
 
 ---
 
@@ -147,6 +146,11 @@ To solve it:
 This project helped me apply everything I had learned during the course — like creating variables, doing calculations, and working with vectors. Overall, the MATLAB OnRamp course gave me a strong start in using MATLAB for real-world problems.
 
 ![certificate.pdf (Raw)](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/certificate.pdf)
+
+---
+#### **Task 2:  Convolution Countdown** 
+---
+To begin the task, I studied the basics of Digital Signal Processing (DSP), understanding that signals are functions carrying information and systems are processes that modify signals. I explored key mathematical tools like the Z-Transform, which represents discrete signals in the complex frequency domain, and the Fourier Transform, which analyzes signal frequency components. After building this theoretical foundation, I moved to MATLAB to practically apply the concepts by performing a simple linear convolution between two discrete signals, \( x = [1\ 2\ 3\ 4] \) and \( h = [1\ 1\ 1\ 1] \), using the `conv()` function. The resulting output, `[1 3 6 10 9 7 4]`, confirmed my understanding of how convolution blends two signals, demonstrating the combined influence of both in a new output sequence. This exercise helped solidify my understanding of both the mathematical theory and its practical application in DSP.
 
 ---
 
