@@ -62,6 +62,7 @@ I designed a simple **aerofoil** for an **HTOL aircraft** using **Fusion 360** b
 - **4** = Position of maximum camber at 40% of the chord  
 - **15** = Maximum thickness of 15% of the chord  
 I refined the leading and trailing edges and ensured a smooth camber line to optimize the aerodynamic properties. This exercise helped me understand the fundamentals of aerofoil design, including the significance of camber, thickness distribution, and leading and trailing edge shaping.
+
 ![Image](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/Screenshot%20(133).png)  
 ![Image](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/Screenshot%20(134).png)  
 
@@ -124,11 +125,11 @@ I designed a **parametric box** with threads in **Fusion 360**.  , ensuring that
 ---
 # ELECTRONIC DESIGN:  
 
-#### **Task 1:  Engineer’s Swiss Army Knife** 
+### **Task 1:  Engineer’s Swiss Army Knife** 
 
 ---
 
-# MATLAB OnRamp Course Report
+#### MATLAB OnRamp Course Report
 
 The **MATLAB OnRamp** course, provided by **MathWorks**, taught me the basics of using MATLAB through simple and interactive lessons. I learned how to create variables, work with vectors and matrices, write scripts, use loops and conditions, import and clean data, and make plots. The course gave me a lot of practice by letting me solve small problems after each topic.
 
@@ -148,7 +149,7 @@ This project helped me apply everything I had learned during the course — like
 ![certificate.pdf (Raw)](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/certificate.pdf)
 
 ---
-#### **Task 2:  Convolution Countdown** 
+### **Task 2:  Convolution Countdown** 
 ---
 To begin the task, I studied the basics of Digital Signal Processing (DSP), understanding that signals are functions carrying information and systems are processes that modify signals. I explored key mathematical tools like the Z-Transform, which represents discrete signals in the complex frequency domain, and the Fourier Transform, which analyzes signal frequency components. After building this theoretical foundation, I moved to MATLAB to practically apply the concepts by performing a simple linear convolution between two discrete signals, \( x = [1\ 2\ 3\ 4] \) and \( h = [1\ 1\ 1\ 1] \), using the `conv()` function. The resulting output, `[1 3 6 10 9 7 4]`, confirmed my understanding of how convolution blends two signals, demonstrating the combined influence of both in a new output sequence. This exercise helped solidify my understanding of both the mathematical theory and its practical application in DSP.
 
