@@ -122,3 +122,29 @@ I designed a **parametric box** with threads in **Fusion 360**.  , ensuring that
 
 
 ---
+# ELECTRONIC DESIGN:  
+
+#### **Task 1:  Engineer’s Swiss Army Knife** 
+Got you! Here's a **simpler**, **clearer**, and **easy-to-understand** version of the report:
+
+---
+
+# MATLAB OnRamp Course Report
+
+The **MATLAB OnRamp** course, provided by **MathWorks**, taught me the basics of using MATLAB through simple and interactive lessons. I learned how to create variables, work with vectors and matrices, write scripts, use loops and conditions, import and clean data, and make plots. The course gave me a lot of practice by letting me solve small problems after each topic.
+
+At the end of the course, I worked on a project using **star spectrum data**. The data were collected at wavelengths that were evenly spaced. I was given the starting wavelength (`lambdaStart`), the spacing between wavelengths (`lambdaDelta`), and the number of observations (`nObs`).
+
+One task was to find the final wavelength (`lambdaEnd`) and create a vector (`lambda`) that listed all the wavelengths.  
+To solve it:
+- I used the formula:
+  \[
+  \lambda_{end} = \lambda_{start} + (nObs - 1) \times \lambda_{delta}
+  \]
+- I calculated `lambdaEnd` by plugging in the given values.
+- Then, I made the `lambda` vector from `lambdaStart` to `lambdaEnd`, increasing by `lambdaDelta` each time.
+
+This project helped me apply everything I had learned during the course — like creating variables, doing calculations, and working with vectors. Overall, the MATLAB OnRamp course gave me a strong start in using MATLAB for real-world problems.
+
+---
+
