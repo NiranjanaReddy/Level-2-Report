@@ -147,5 +147,6 @@ To solve it:
 This project helped me apply everything I had learned during the course — like creating variables, doing calculations, and working with vectors. Overall, the MATLAB OnRamp course gave me a strong start in using MATLAB for real-world problems.
 
 ![certificate.pdf (Raw)](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/certificate.pdf)
+
 ---
 
