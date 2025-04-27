@@ -76,6 +76,9 @@ I explored the concept of a **toroidal propeller** and its advantages in improvi
 ---
 
 ### **Sheet Metal**
+I designed a post box for MARVEL using the Sheet Metal tools in Fusion 360. I used features like Flanges to build and shape the mailbox directly in 3D, adding bends and forms just like real sheet metal would be made. Fusion 360 automatically took care of important details like material thickness and bend radius, making sure the design could be manufactured realistically. This made it easy to create both a proper 3D model and a flat pattern for fabrication, streamlining the whole design process.
+![Screenshot (21)](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/Screenshot%20(21).png)
+![Screenshot (20)](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/Screenshot%20(20).png)
 
 ---
 
