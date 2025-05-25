@@ -163,3 +163,19 @@ To begin the task, I studied the basics of Digital Signal Processing (DSP), unde
 
 ---
 
+### **Task 3:  Your Logic, Preloaded** 
+---
+In this task, I explored the concept of Look-Up Tables (LUTs) and applied it to implement a 2-input XOR function using a 4x1 LUT in CircuitVerse. I began by constructing the truth table for the XOR operation, identifying the correct output values for each of the four possible input combinations. These values were then manually programmed into the LUT. The two input bits served as select lines to choose one of the four stored outputs, effectively replicating the XOR logic behavior through memory-based selection. This simulation demonstrated how LUTs can be used to implement logic functions in a compact and efficient manner.
+link
+
+---
+### **Task 4:  4 Bits to Rule Them All** 
+---
+In this project, I designed and implemented a 4-bit Arithmetic Logic Unit (ALU) using CircuitVerse. The ALU supports addition, subtraction using 2’s complement, and basic logical operations including AND, OR, and XOR. I began by constructing a 4-bit ripple-carry adder using fundamental logic gates, ensuring accurate carry propagation. Subtraction was realized by leveraging the 2’s complement technique—bitwise inversion of the second operand followed by addition. Logical functions were implemented directly using standard logic gates. A control unit was developed to select the desired operation based on input signals, and the design includes indicators for carry and overflow conditions. The resulting ALU is both efficient in gate usage and scalable for future extension.
+link
+
+---
+### **Task 5:  The PCB Revolution** 
+---
+
+In the Altium PCB Design course by Altium Education, I learned the basics of how to create and manage schematics for a PCB. I got familiar with placing components, connecting them with wires, and making sure the circuit made sense before moving on to the board layout. The course showed me how to organize the schematic clearly and how to use design rules to avoid common mistakes. It helped me understand the overall flow from a circuit diagram to a real PCB design, even though I’m still getting used to the software and tools.
