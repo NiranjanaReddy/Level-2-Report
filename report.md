@@ -163,10 +163,15 @@ To begin the task, I studied the basics of Digital Signal Processing (DSP), unde
 
 ---
 
-### **Task 3:  Your Logic, Preloaded** 
+### **Task 3:  SPICEy Code** 
 ---
-In this task, I explored the concept of Look-Up Tables (LUTs) and applied it to implement a 2-input XOR function using a 4x1 LUT in CircuitVerse. I began by constructing the truth table for the XOR operation, identifying the correct output values for each of the four possible input combinations. These values were then manually programmed into the LUT. The two input bits served as select lines to choose one of the four stored outputs, effectively replicating the XOR logic behavior through memory-based selection. This simulation demonstrated how LUTs can be used to implement logic functions in a compact and efficient manner.
-link
+SPICE code is a text-based language used to describe electronic circuits and their components to a SPICE simulator. SPICE, which stands for "Simulation Program with Integrated Circuit Emphasis", is a software tool that engineers use to model and simulate the behavior of electronic circuits.
+1. MOS
+image
+2. AND
+   image
+3. OR
+   image
 
 ---
 ### **Task 4:  4 Bits to Rule Them All** 
