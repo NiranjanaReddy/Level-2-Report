@@ -169,10 +169,9 @@ SPICE code is a text-based language used to describe electronic circuits and the
 1. MOS
  ![CMOS Inverter](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/cmos%20inverter.png)
 2. AND
-   
-4. OR
-   image
-
+   ![CMOS AND Gate](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/cmos%20and%20gate.png)
+3. OR
+   ![CMOS AND Gate](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/cmos%20and%20gate.png)
 ---
 ### **Task 4:  4 Bits to Rule Them All** 
 ---
