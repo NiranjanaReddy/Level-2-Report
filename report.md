@@ -167,10 +167,10 @@ To begin the task, I studied the basics of Digital Signal Processing (DSP), unde
 ---
 SPICE code is a text-based language used to describe electronic circuits and their components to a SPICE simulator. SPICE, which stands for "Simulation Program with Integrated Circuit Emphasis", is a software tool that engineers use to model and simulate the behavior of electronic circuits.
 1. MOS
-image
+ ![CMOS Inverter](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/cmos%20inverter.png)
 2. AND
-   image
-3. OR
+   
+4. OR
    image
 
 ---
