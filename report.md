@@ -172,6 +172,8 @@ SPICE code is a text-based language used to describe electronic circuits and the
 ---
 In this project, I designed and implemented a 4-bit Arithmetic Logic Unit (ALU) using CircuitVerse. The ALU supports addition, subtraction using 2’s complement, and basic logical operations including AND, OR, and XOR. I began by constructing a 4-bit ripple-carry adder using fundamental logic gates, ensuring accurate carry propagation. Logical functions were implemented directly using standard logic gates. A control unit was developed to select the desired operation based on input signals, and the design includes indicators for carry and overflow conditions. The resulting ALU is both efficient in gate usage and scalable for future extension.
 [4-bit Adder Project on CircuitVerse](https://circuitverse.org/users/306462/projects/4_bit_adder-1fa3bbc2-5be1-41b3-886e-779cf5c153b6)
+![4-bit Adder](https://github.com/NiranjanaReddy/Level-2-Report/raw/main/4_bit_adder.png)
+![ALU](https://github.com/NiranjanaReddy/Level-2-Report/raw/main/ALU.png)
 
 
 ---
