@@ -170,11 +170,32 @@ SPICE code is a text-based language used to describe electronic circuits and the
 ---
 ### **Task 4:  4 Bits to Rule Them All** 
 ---
-In this project, I designed and implemented a 4-bit Arithmetic Logic Unit (ALU) using CircuitVerse. The ALU supports addition, subtraction using 2’s complement, and basic logical operations including AND, OR, and XOR. I began by constructing a 4-bit ripple-carry adder using fundamental logic gates, ensuring accurate carry propagation. Subtraction was realized by leveraging the 2’s complement technique—bitwise inversion of the second operand followed by addition. Logical functions were implemented directly using standard logic gates. A control unit was developed to select the desired operation based on input signals, and the design includes indicators for carry and overflow conditions. The resulting ALU is both efficient in gate usage and scalable for future extension.
-link
+In this project, I designed and implemented a 4-bit Arithmetic Logic Unit (ALU) using CircuitVerse. The ALU supports addition, subtraction using 2’s complement, and basic logical operations including AND, OR, and XOR. I began by constructing a 4-bit ripple-carry adder using fundamental logic gates, ensuring accurate carry propagation. Logical functions were implemented directly using standard logic gates. A control unit was developed to select the desired operation based on input signals, and the design includes indicators for carry and overflow conditions. The resulting ALU is both efficient in gate usage and scalable for future extension.
+[4-bit Adder Project on CircuitVerse](https://circuitverse.org/users/306462/projects/4_bit_adder-1fa3bbc2-5be1-41b3-886e-779cf5c153b6)
+
 
 ---
 ### **Task 5:  The PCB Revolution** 
 ---
 
-In the Altium PCB Design course by Altium Education, I learned the basics of how to create and manage schematics for a PCB. I got familiar with placing components, connecting them with wires, and making sure the circuit made sense before moving on to the board layout. The course showed me how to organize the schematic clearly and how to use design rules to avoid common mistakes. It helped me understand the overall flow from a circuit diagram to a real PCB design, even though I’m still getting used to the software and tools.
+In the Altium PCB Design course by Altium Education, I learned the basics of how to create and manage schematics for a PCB. I got familiar with placing components, connecting them with wires, and making sure the circuit made sense before moving on to the board layout. The course showed me how to organize the schematic clearly and how to use design rules to avoid common mistakes.
+
+Unit 1: Introduction to Altium Designer
+I learned the basics of the Altium interface, project creation, and how to navigate the environment to manage schematic and PCB design files efficiently.
+
+Unit 2: Schematic Capture
+I understood how to create electronic schematics, place and connect components, and manage design sheets and signal integrity from the circuit level.
+
+Unit 3: Library Management
+I learned to create and organize custom libraries including schematic symbols and PCB footprints, ensuring consistency and accuracy in component data.
+
+Unit 4: PCB Layout and Routing
+I practiced converting schematics to PCB layout, defining board shapes, placing components, and routing signal traces using manual and automated tools.
+
+Unit 5: Design Rules and Verification
+I learned to set up electrical and mechanical design rules and performed rule checks to validate the design before manufacturing.
+
+Unit 6: Output Generation and Manufacturing Files
+I gained knowledge on generating output files like Gerbers, NC drill files, and BOMs required for PCB fabrication and assembly.
+
+It helped me understand the overall flow from a circuit diagram to a real PCB design, even though I’m still getting used to the software and tools.
