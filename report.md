@@ -141,10 +141,7 @@ At the end of the course, I worked on a project using **star spectrum data**. Th
 One task was to find the final wavelength (`lambdaEnd`) and create a vector (`lambda`) that listed all the wavelengths.  
 To solve it:
 - I used the formula:
-  \[
-  \lambda_{end} = \lambda_{start} + (nObs - 1) \times \lambda_{delta}
-  \]
-- I calculated `lambdaEnd` by plugging in the given values.
+  - I calculated `lambdaEnd` by plugging in the given values.
 - Then, I made the `lambda` vector from `lambdaStart` to `lambdaEnd`, increasing by `lambdaDelta` each time.
 
 This project helped me apply everything I had learned during the course — like creating variables, doing calculations, and working with vectors. Overall, the MATLAB OnRamp course gave me a strong start in using MATLAB for real-world problems.
@@ -155,11 +152,9 @@ This project helped me apply everything I had learned during the course — like
 ---
 ### **Task 2:  Convolution Countdown** 
 ---
-To begin the task, I studied the basics of Digital Signal Processing (DSP), understanding that signals are functions carrying information and systems are processes that modify signals. I explored key mathematical tools like the Z-Transform, which represents discrete signals in the complex frequency domain, and the Fourier Transform, which analyzes signal frequency components. After building this theoretical foundation, I moved to MATLAB to practically apply the concepts by performing a simple linear convolution between two discrete signals, \( x = [1\ 2\ 3\ 4] \) and \( h = [1\ 1\ 1\ 1] \), using the `conv()` function. The resulting output, `[1 3 6 10 9 7 4]`, confirmed my understanding of how convolution blends two signals, demonstrating the combined influence of both in a new output sequence. This exercise helped solidify my understanding of both the mathematical theory and its practical application in DSP.
+To begin the task, I studied the basics of Digital Signal Processing (DSP), understanding that signals are functions carrying information and systems are processes that modify signals. I explored key mathematical tools like the Z-Transform, which represents discrete signals in the complex frequency domain, and the Fourier Transform, which analyzes signal frequency components. After building this theoretical foundation, I moved to MATLAB to practically apply the concepts by performing a simple linear convolution between two discrete signals, \( x = [1\ 2\ 3\ 4] \) and \( h = [1\ -1\ 2\ 0] \), using the `conv()` function. The resulting output, `[1 1 3 5 2 8 0]`, confirmed my understanding of how convolution blends two signals, demonstrating the combined influence of both in a new output sequence. This exercise helped solidify my understanding of both the mathematical theory and its practical application in DSP.
 
 ![Screenshot (14)](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/Screenshot%20(14).png)
-![Screenshot (12)](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/Screenshot%20(12).png)
-![Screenshot (13)](https://raw.githubusercontent.com/NiranjanaReddy/Level-2-Report/main/Screenshot%20(13).png)
 
 ---
 
