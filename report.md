@@ -201,3 +201,6 @@ Unit 6: Output Generation and Manufacturing Files
 I gained knowledge on generating output files like Gerbers, NC drill files, and BOMs required for PCB fabrication and assembly.
 
 It helped me understand the overall flow from a circuit diagram to a real PCB design, even though I’m still getting used to the software and tools.
+Here is my certificate for completing the course:
+![Screenshot (31)](https://github.com/NiranjanaReddy/Level-2-Report/blob/main/Screenshot%20(31).png?raw=true)
+
